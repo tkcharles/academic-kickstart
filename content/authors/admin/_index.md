@@ -76,4 +76,4 @@ Her research interest include nonlinear dynamics and beam optics design in parti
 In particular, this includes: beam optics design, Coherent Synchrotron Radiation (CSR) 
 cancellation techniques,
 particle trajectory caustics (relating to bunching dynamics, current spikes formation and 
-microbunching instability) 
+microbunching instability)
