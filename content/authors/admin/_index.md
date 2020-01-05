@@ -72,7 +72,7 @@ user_groups:
 ---
 
 Tessa Charles is a lecturer of accelerator physicist. 
-Her research interest include nonlinear dynamics and beam optics design in particle accelerators.
+Her research interests include nonlinear dynamics and beam optics design in particle accelerators.
 In particular, this includes: beam optics design, Coherent Synchrotron Radiation (CSR) 
 cancellation techniques,
 particle trajectory caustics (relating to bunching dynamics, current spikes formation and 
