@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include accelerator physicist.
 
 interests:
-- Accelerator Physicist
+- Accelerator Physics
 - Free Electron Lasers
 - Particle trajectory caustics
 
@@ -30,7 +30,7 @@ education:
   - course: PhD in Accelerator Physic
     institution: Monash University, Australia
     year: 2016
-  - course: BSc with honors in Mechanical Engineering
+  - course: BE (Hons) in Mechanical Engineering
     institution: Monash University, Australia
     year: 2011
   - course: BSc in Physics
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:tessa.charles@cern.ch '#contact'  # For a direct email link, use "mailto:tessa.charles@cern.ch".
+  link: mailto:tessa.charles@cern.ch
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/TessaKCharles
@@ -77,5 +77,3 @@ In particular, this includes: beam optics design, Coherent Synchrotron Radiation
 cancellation techniques,
 particle trajectory caustics (relating to bunching dynamics, current spikes formation and 
 microbunching instability) 
-
-# Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
